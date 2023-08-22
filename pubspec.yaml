@@ -3,8 +3,7 @@ description: Create beautiful and powerful CLI prompts in Inquirer.js style and 
 version: 0.5.0-dev
 homepage: https://github.com/leonardoInf/cli_dialog
 
-environment:
-  sdk: ">=3.0.0 <4.0.0"
+sdk: ">=3.0.0"
 
 dependencies:
   dart_console: ^1.1.0-pre.1
