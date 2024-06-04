@@ -12,6 +12,7 @@ dependency_overrides:
   http: ^1.2.1
   meta: ^1.12.0
   analyzer: ^6.0.0
+  intl: ^0.18.1
 dev_dependencies:
   # test_coverage: ^0.4.3
   # coveralls: ^5.2.0
