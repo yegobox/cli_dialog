@@ -1,4 +1,4 @@
-# melos_managed_dependency_overrides: dart_console,http,meta,analyzer,intl
+# melos_managed_dependency_overrides: dart_console,http,meta,analyzer,intl,sqlite3
 dependency_overrides:
   dart_console:
     path: ../dart_console
@@ -6,3 +6,4 @@ dependency_overrides:
   meta: ^1.12.0
   analyzer: ^6.0.0
   intl: ^0.19.0
+  
